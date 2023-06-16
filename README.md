@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Proyecto Heroes App en React
 
 Esta aplicación utiliza diferentes hooks, personalizados y de react
@@ -22,3 +23,7 @@ yarn dev
 para levantar el proyecto.
 
 Saludos!
+=======
+# HeroesApp-Login
+React-Project HeroesApp Login
+>>>>>>> dda5f28a936b9dc062d1b6838b8a11605307d2a5
